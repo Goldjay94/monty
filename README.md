@@ -1,5 +1,8 @@
 # monty
 Stacks, Queues - LIFO, FIFO
-collaborators
+
+Collaborators
+
 Chima Ugbo
+
 Chioma Ezeibekwe
