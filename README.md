@@ -27,7 +27,7 @@ $ sudo apt-get install git
 Clone the repository into a new directory:
 
 ```
-$ git clone https://github.com/BennettDixon/monty.git
+$ git clone https://github.com/cugbo/monty.git
 ```
 Compile with the following:
 
@@ -191,9 +191,9 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Brennan D Baraban** - [@bdbaraban](https://github.com/bdbaraban)
+* **Chima Ugbo** - [@cugbo](https://github.com/cugbo)
 
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
+* **Chioma Ezeibekwe MaryJane** - [@Goldjay94](https://github.com/Goldjay94)
 
 
 ## :mag: License
@@ -203,7 +203,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## :mega: Acknowledgments
 
-* Holberton School (providing guidance)
+* ALX School (providing guidance)
 * Stack Overflow (help on various memory errors (not leaks))
 
 <p align="center">
